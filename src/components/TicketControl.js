@@ -4,7 +4,6 @@ import TicketList from './TicketList';
 import TicketDetail from './TicketDetail';
 import EditTicketForm from './EditTicketForm';
 import { connect } from 'react-redux';
-import { act } from 'react-dom/test-utils';
 import PropTypes from 'prop-types';
 import * as a from './../actions';
 
